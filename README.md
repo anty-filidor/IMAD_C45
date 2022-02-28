@@ -1,9 +1,5 @@
 
-#Indukcyjne metody analizy danych
-
-__DAN, W8, PWr__
-
-__C4.5- 2018__
+# __C4.5- 2018__
 
 This program performs C4.5 classifier on five datasets:
 + Wines
